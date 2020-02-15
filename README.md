@@ -14,3 +14,7 @@ $\textbf{Part II. Deep learning models}$
 $\textbf{Part III. Conclusions and Next steps}$
   - Conclusions
   - Next steps
+
+
+  link to the Notebook with full code: https://colab.research.google.com/drive/15eRh90lvpynFFSyrKMkzfIGOZeIH9Rg4
+  Link to the Notebook with hiden code: https://colab.research.google.com/drive/1dvHSQYNv-mlaGZkU7K86tP5BnJYoIitM
